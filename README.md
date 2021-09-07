@@ -1,3 +1,6 @@
+https://qiita.com/ryutoyasugi/items/cb895814d4149ca44f12
+参考
+
 # ~.zshrc設定
 
 ## oh my zsh インストール
